@@ -1,6 +1,6 @@
 # AI Task Orchestrator — MVP
 
-**AI Task Orchestrator** is a documentation-only MVP that demonstrates how an AI-driven system can route a single natural-language request to the most appropriate AI tool, while producing a clear **Result Summary** and a transparent **Trace**.
+**AI Task Orchestrator** is an MVP that demonstrates how an AI-driven system can route a single natural-language request to the most appropriate AI tool, while producing a clear **Result Summary** and a transparent **Trace**.
 
 > ⚠️ This public repository does **not** contain source code.  
 > The implementation is maintained in a private repository.  
