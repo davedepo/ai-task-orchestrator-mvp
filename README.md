@@ -77,6 +77,9 @@ A few representative examples from the MVP UI (all scenarios are fictional and s
 More examples are documented in:
 - `docs/use-cases.md`
 
+
+*Full documentation:* [`docs/index.md`](docs/index.md)
+
 ---
 
 ## What this MVP is (and is not)
