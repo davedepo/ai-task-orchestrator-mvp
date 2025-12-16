@@ -24,6 +24,18 @@ This MVP explores a more **explicit orchestration pattern**:
 
 In this approach, the trace is not an afterthought—it is treated as a first-class part of the product.
 
+### Note on the MVP Interface
+
+The input–output interface shown in this MVP is intentionally minimal.
+
+It exists to demonstrate orchestration behavior and traceability, not to
+define a fixed interaction or output model. In practical or domain-specific
+implementations, both inputs and outputs may vary significantly based on
+use case, role, or integration context.
+
+The UI should be viewed as a demonstration surface rather than a constraint
+of the orchestration layer.
+
 ---
 
 ## Why Orchestration Matters
