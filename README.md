@@ -74,11 +74,11 @@ A few representative examples from the MVP UI (all scenarios are fictional and s
 ### Code Helper (code understanding for reviewers)
 ![Code understanding](assets/screenshots/03-code-helper-understanding-review-full.png)
 
-More examples are documented in:
-- `docs/use-cases.md`
+More detailed examples are available in:
+- [`docs/use-cases.md`](docs/use-cases.md)
 
-
-*Full documentation:* [`docs/index.md`](docs/index.md)
+For the complete documentation set, see:
+- [`docs/index.md`](docs/index.md)
 
 ---
 
