@@ -17,6 +17,10 @@ Implementation code and setup details are intentionally excluded.
   Conceptual architecture, runtime flow, tool responsibilities, and technology stack.  
   → [`architecture.md`](./architecture.md)
 
+- **Sequence Diagram**  
+  Conceptual runtime flow of orchestration and trace generation.  
+  → [`sequence.md`](./sequence.md)
+
 ---
 
 ## MVP Capabilities

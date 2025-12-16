@@ -227,6 +227,8 @@ are intentionally excluded from this public repository.
 +--------------------+
 ```
 
+A conceptual runtime sequence is documented in [`sequence.md`](./sequence.md).
+
 **Note:**  
 - The MVP executes a single primary tool per orchestration run.
 - Multi-step workflows, external context providers, and domain-specific logic are intentional future extensions and not part of the current scope.
