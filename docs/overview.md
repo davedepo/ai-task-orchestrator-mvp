@@ -12,21 +12,17 @@ Rather than focusing on model responses alone, this MVP focuses on
 
 ## The Core Idea
 
-Most AI applications behave like a single tool:
-- One prompt
-- One response
-- Little visibility into *why* a result was produced
+Many AI interactions are designed around a **direct input–output pattern**, where a user submits a request and receives a response, with limited visibility into how decisions are made or which capabilities are applied.
 
-This MVP introduces a different pattern:
+This MVP explores a more **explicit orchestration pattern**:
+  - A user provides a single natural-language instruction
+  - The system reasons about the underlying intent
+  - The request is routed to the most appropriate tool
+  - The system returns:
+    - a **Result Summary**
+    - a **Trace** explaining the decision path
 
-1. A user provides a **single natural-language instruction**
-2. The system reasons about the intent
-3. The request is routed to the **most appropriate tool**
-4. The system returns:
-   - a **Result Summary**
-   - a **Trace** explaining the decision path
-
-The trace is not an afterthought—it is part of the product.
+In this approach, the trace is not an afterthought—it is treated as a first-class part of the product.
 
 ---
 
